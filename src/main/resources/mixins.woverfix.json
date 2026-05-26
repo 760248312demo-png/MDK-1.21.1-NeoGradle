@@ -1,0 +1,9 @@
+{
+    "required": true,
+    "package": "com.example.woverfix.mixin",
+    "compatibilityLevel": "JAVA_21",
+    "client": ["MixinMappedRegistry"],
+    "injectors": {
+        "defaultRequire": 1
+    }
+}
